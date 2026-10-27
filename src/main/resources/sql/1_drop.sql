@@ -1,6 +1,6 @@
+DROP TABLE IF EXISTS "participant";
+DROP TABLE IF EXISTS "person";
+DROP TABLE IF EXISTS "event";
 DROP TABLE IF EXISTS "event_type";
 DROP TABLE IF EXISTS "role";
 DROP TABLE IF EXISTS "category";
-DROP TABLE IF EXISTS "event";
-DROP TABLE IF EXISTS "participant";
-DROP TABLE IF EXISTS "person";
